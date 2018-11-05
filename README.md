@@ -31,9 +31,10 @@ The following treebanks were developed by following the guidelines of the Perseu
 ## Underway
 
 The following texts are currently being annotated or corrected:
-* Lysias, On the pension (Or. 24) 
-* Hippocrates' Oath 
-* Semonides: a typology of women 
-* Parts of Genesis in the Septuagint translation 
-* Euripides' Medea * 
-Pseudo-Lucianus, The mule 
+* Lysias, On the pension (Or. 24), annotated by Louis Verreth 
+* Hippocrates' Oath, annotated by Louis Verreth
+* Semonides: a typology of women, annotated by Louis Verreth
+* Parts of Genesis in the Septuagint translation, annotated by Jonas Roose
+* Euripides' Medea, annotated by Toon Van Hal and the KU Leuven Ba3-students of Greek (2018-2019) 
+* Pseudo-Lucianus, The mule
+* ...
