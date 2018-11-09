@@ -28,10 +28,17 @@ The following treebanks were developed by following the guidelines of the Perseu
 
 **How much?** ca. 2,5K tokens.
  
+## Lysias, #on the pension# (0r. 24)
+
+**What?** Lysias. Lysias with an English translation by W.R.M. Lamb, M.A. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1930.
+
+**Who?** Annotated by Louis Verreth, on the basis of an automatically parsed version by Alek Keersmaekers. 
+
+**How much?** ca. 1,5K tokens.
+
 ## Underway
 
 The following texts are currently being annotated or corrected:
-* Lysias, On the pension (Or. 24), annotated by Louis Verreth 
 * Hippocrates' Oath, annotated by Louis Verreth
 * Semonides: a typology of women, annotated by Louis Verreth
 * Parts of Genesis in the Septuagint translation, annotated by Jonas Roose
