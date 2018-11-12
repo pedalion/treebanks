@@ -20,7 +20,7 @@ The following treebanks were developed by following the guidelines of the Perseu
 
 **Updates?** Student contributions will be added in the course of January 2019. The metadata of the sentences will also be enhanced.
 
-## Lucian, Prometheus
+## Lucian, *Prometheus*
 
 **What?** Lucian, Prometheus on Caucasus, in: Lucian: Works with an English Translation by. A. M. Harmon. Cambridge, MA. Harvard University Press. London. William Heinemann Ltd. 1915. 2. Via: http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0062.tlg020.
 
@@ -28,7 +28,7 @@ The following treebanks were developed by following the guidelines of the Perseu
 
 **How much?** ca. 2,5K tokens.
  
-## Lysias, #on the pension# (0r. 24)
+## Lysias, *on the pension* (Or. 24)
 
 **What?** Lysias. Lysias with an English translation by W.R.M. Lamb, M.A. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1930.
 
@@ -45,3 +45,7 @@ The following texts are currently being annotated or corrected:
 * Euripides' Medea, annotated by Toon Van Hal and the KU Leuven Ba3-students of Greek (2018-2019) 
 * Pseudo-Lucianus, The mule
 * ...
+
+## Credits
+
+Treebank data was created and edited through the help of the Arethusa application (https://github.com/alpheios-project/arethusa) as provided by the Perseids Project at Tufts University (https://perseids.org). Arethusa has received support from the Andrew W. Mellon Foundation, the Institute of Museum and Library Services, Tufts University, and the Humboldt Chair of Digital Humanities at Leipzig. Arethusa is now being jointly maintained by the Perseids Project at Tufts University and The Alpheios Project, Ltd.
