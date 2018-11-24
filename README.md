@@ -49,14 +49,15 @@ The modifications are implemented in our own treebank search device, DendroSearc
 ## Underway
 
 The following texts are currently being annotated or corrected:
-* Hippocrates' Oath, annotated by Louis Verreth
-* Semonides: a typology of women, annotated by Louis Verreth
-* Mimnermus: fragments, annotated by Wouter Mercelis
-* Aesopus: fables, annotated by Colin Swaelens
-* Parts of Genesis in the Septuagint translation, annotated by Jonas Roose
-* Euripides' Medea, annotated by Toon Van Hal and the KU Leuven Ba3-students (2018-2019) 
-* Pseudo-Lucianus: the mule
-* ...
+* Hippocrates' Oath – annotated by Louis Verreth
+* Semonides: a typology of women – annotated by Louis Verreth
+* Mimnermus: fragments – annotated by Wouter Mercelis
+* Aesopus: fables – annotated by Colin Swaelens
+* Parts of Genesis in the Septuagint translation – annotated by Jonas Roose
+* Euripides' Medea – annotated by Toon Van Hal and the KU Leuven Ba3-students (2018-2019) 
+* Pseudo-Lucianus: the mule – annotated by Alek Keersmaekers
+* Batrachomyomachia – annotated by Colin Swaelens
+* Aesopos, some fables – annotated by Colin Swaelens
 
 ## Credits
 
