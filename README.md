@@ -86,6 +86,7 @@ The following texts are currently being annotated or corrected:
 * Parts of Genesis in the Septuagint translation – annotated by Jonas Roose
 * Euripides' Medea – annotated by Toon Van Hal and the KU Leuven Ba3-students (2018-2019) 
 * Batrachomyomachia – annotated by Colin Swaelens
+* Isocrates' letters (selection) – annotated by Toon Van Hal
 
 ## Credits
 
