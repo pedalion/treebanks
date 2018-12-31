@@ -1,5 +1,5 @@
 # treebanks
-The following treebanks were developed by following the guidelines of the Perseus Dependency Treebanks. See also en.pedalion.org.
+The following treebanks (all of which are bèta-versions) were developed by following the guidelines of the Perseus Dependency Treebanks. See also en.pedalion.org. (NB: For experimental reasons, some trees exhibit the part-of-speech designation 'b', equalling in most cases 'd').
 
 ##  Papyri texts
 **What?** The texts will be offered to the Sematia project. 
@@ -7,6 +7,8 @@ The following treebanks were developed by following the guidelines of the Perseu
 **Who?** Most texts were annotated by Alek Keersmaekers. A number of texts were annotated by Louis Verreth (based on a first automated parsing by Alek Keersmaekers), and singular contributions were made by KU Leuven undergraduate students of Greek in the academic years 2017-2018 and 2018-2019, partly based on a first automated parsing by Alek Keersmaekers. In alphabetical order: . The entire annotation process is supervised by Alek Keersmaekers. More details can be found in the corresponding xml-file.
 
 **How much?** First release: ca. 7K tokens.
+
+**First release?** 2018
 
 **Updates?**  The annotations of the students of 2018-2019 will added in the course of January 2019. 
 
@@ -18,6 +20,8 @@ The following treebanks were developed by following the guidelines of the Perseu
 
 **How much?** First release: ca. 11K tokens.
 
+**First release?** 2018
+
 **Updates?** Student contributions will be added in the course of January 2019. The metadata of the sentences will also be enhanced.
 
 ## Lucian, *Prometheus*
@@ -27,14 +31,29 @@ The following treebanks were developed by following the guidelines of the Perseu
 **Who?** Supervised by Toon Van Hal, with student contributions by De Schutter, A.; Knapen, C.; Weets, C.; Van Nunen, E.; De Smet, Isabeau; Van Bever, L.; Valadou, M.; De Backer, Olympe; Keupers, S.; Vangenechten, Thomas; Valgaeren, Thomas; Nelis, Tilke.
 
 **How much?** ca. 2,5K tokens.
+
+**First release?** 2018
  
 ## Lysias, *on the pension* (Or. 24)
 
 **What?** Lysias (Or. 24) with an English translation by W.R.M. Lamb, M.A. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1930.
 
-**Who?** Annotated by Louis Verreth, on the basis of an automatically parsed version by Alek Keersmaekers. 
+**Who?** Annotated by Louis Verreth, on the basis of an automatically parsed version by Alek Keersmaekers, and controlled by Toon Van Hal 
 
 **How much?** ca. 1,5K tokens.
+
+**First release?** 2018
+
+## (Pseudo-)Plato, *Cleitophon*
+
+**What?** Plato. Platonis Opera, ed. John Burnet. Oxford University Press. 1903. 
+
+**Who?** Annotated by Wouter Mercelis, on the basis of an automatically parsed version by Alek Keersmaekers, and controlled by Toon Van Hal 
+
+**How much?** ca. 1,8K tokens.
+
+**First release?** 2018
+
 
 ## Modifications in the Perseus Dependency Treebanks of Ancient Greek
 
@@ -57,7 +76,6 @@ The following texts are currently being annotated or corrected:
 * Euripides' Medea – annotated by Toon Van Hal and the KU Leuven Ba3-students (2018-2019) 
 * Pseudo-Lucianus: the mule – annotated by Alek Keersmaekers
 * Batrachomyomachia – annotated by Colin Swaelens
-* Plato: Clitophon – annotated by Wouter Mercelis
 
 ## Credits
 
