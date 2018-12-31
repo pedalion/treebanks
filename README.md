@@ -38,7 +38,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **What?** Lysias (Or. 24) with an English translation by W.R.M. Lamb, M.A. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1930.
 
-**Who?** Annotated by Louis Verreth, on the basis of an automatically parsed version by Alek Keersmaekers, and controlled by Toon Van Hal 
+**Who?** Annotated by Louis Verreth, on the basis of an automatically parsed version by Alek Keersmaekers, and corrected by Toon Van Hal 
 
 **How much?** ca. 1,5K tokens.
 
@@ -48,9 +48,20 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **What?** Plato. Platonis Opera, ed. John Burnet. Oxford University Press. 1903. 
 
-**Who?** Annotated by Wouter Mercelis, on the basis of an automatically parsed version by Alek Keersmaekers, and controlled by Toon Van Hal 
+**Who?** Annotated by Wouter Mercelis, on the basis of an automatically parsed version by Alek Keersmaekers, and corrected by Toon Van Hal 
 
 **How much?** ca. 1,8K tokens.
+
+**First release?** 2018
+
+
+## (Pseudo-)Lucian, *The mule*
+
+**What?**  
+
+**Who?** Annotated by Alek Keersmaekers
+
+**How much?** ca. 11K tokens.
 
 **First release?** 2018
 
@@ -74,7 +85,6 @@ The following texts are currently being annotated or corrected:
 * Aesopos: some fables – annotated by Colin Swaelens
 * Parts of Genesis in the Septuagint translation – annotated by Jonas Roose
 * Euripides' Medea – annotated by Toon Van Hal and the KU Leuven Ba3-students (2018-2019) 
-* Pseudo-Lucianus: the mule – annotated by Alek Keersmaekers
 * Batrachomyomachia – annotated by Colin Swaelens
 
 ## Credits
