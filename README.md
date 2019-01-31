@@ -14,15 +14,15 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 ## The Pedalion example sentences
 
-**What?** Pedalion.org offers a modular grammar of Ancient Greek. The English version, en.pedalion.org, is still under construction. This grammar relies on a high number of original example sentences, a large number of which were treebanked.
+**What?** Pedalion.org offers a modular grammar of Ancient Greek. The English version, en.pedalion.org, is still under construction. This grammar relies on a high number of original example sentences, a large number of which have been treebanked.
 
-**Who?** Supervised by Toon Van Hal. Most sentences were annotated by Toon Van Hal, all of which are based on a first automated parsing by Alek Keersmaekers. 
+**Who?** Supervised by Toon Van Hal. Most sentences were annotated by Toon Van Hal, all of which are based on a first automated parsing by Alek Keersmaekers. In addition, there are student contributions by Mathieu Cuijpers; Sanderijn Gijbels; Yoran Joosten; Yordi Lenaerts; Eva Uffing; Chiara Van der Hasselt; Lisa Vanhee; Jolien Volders; Anne-Sophie Vounckx (each student encoded ca. 300 tokens).
 
-**How much?** First release: ca. 11K tokens.
+**How much?** Currently ca. 14K tokens.
 
 **First release?** 2018
 
-**Updates?** Student contributions will be added in the course of January 2019. The metadata of the sentences will also be enhanced.
+**Updates?** February 2019: addition of student annotations; correction of previous data| Still to be done: The metadata of the sentences will  be enhanced.
 
 ## Lucian, *Prometheus*
 
@@ -64,6 +64,17 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 **How much?** ca. 11K tokens.
 
 **First release?** 2018
+
+
+## Euripides, *Medea*
+
+**What?**  
+
+**Who?** Annotated by Toon Van Hal, with student contributions by Mathieu Cuijpers; Sanderijn Gijbels; Yoran Joosten; Yordi Lenaerts; Eva Uffing; Chiara Van der Hasselt; Lisa Vanhee and Jolien Volders. Based on a preparsed text by Alek Keersmaekers. Controlled by Toon Van Hal, Sanderijn Gijbels and Yoran Joosten.
+
+**How much?** ca. 10K tokens.
+
+**First release?** 2019
 
 
 ## Modifications in the Perseus Dependency Treebanks of Ancient Greek
