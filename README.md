@@ -70,7 +70,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **What?**  
 
-**Who?** Annotated by Toon Van Hal, with student contributions by Mathieu Cuijpers; Sanderijn Gijbels; Yoran Joosten; Yordi Lenaerts; Eva Uffing; Chiara Van der Hasselt; Lisa Vanhee and Jolien Volders. Based on a preparsed text by Alek Keersmaekers. Controlled by Toon Van Hal, Sanderijn Gijbels and Yoran Joosten.
+**Who?** Annotated by Toon Van Hal, with student contributions by Mathieu Cuijpers; Sanderijn Gijbels; Yoran Joosten; Yordi Lenaerts; Eva Uffing; Chiara Van der Hasselt; Lisa Vanhee and Jolien Volders (KU Leuven Bachelor 3, 2018-2019). Based on a preparsed text by Alek Keersmaekers. Controlled by Toon Van Hal, Sanderijn Gijbels and Yoran Joosten.
 
 **How much?** ca. 10K tokens.
 
@@ -95,9 +95,12 @@ The following texts are currently being annotated or corrected:
 * Mimnermus: fragments – annotated by Wouter Mercelis
 * Aesopos: some fables – annotated by Colin Swaelens
 * Parts of Genesis in the Septuagint translation – annotated by Jonas Roose
-* Euripides' Medea – annotated by Toon Van Hal and the KU Leuven Ba3-students (2018-2019) 
 * Batrachomyomachia – annotated by Colin Swaelens
 * Isocrates' letters (selection) – annotated by Toon Van Hal
+* Lucian, Lis vocalium – annotated by Sanderijn Gijbels
+* Lucian, Symposium – annotated by Yoran Joosten
+
+
 
 ## Credits
 
