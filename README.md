@@ -1,16 +1,16 @@
 # treebanks
-The following treebanks (all of which are bèta-versions) were developed by following the guidelines of the Perseus Dependency Treebanks. See also en.pedalion.org. (NB: For experimental reasons, some trees exhibit the part-of-speech designation 'b', equalling in most cases 'd').
+The following treebanks (all of which are bèta-versions) were developed by following the guidelines of the Perseus Dependency Treebanks. See also en.pedalion.org. (NB: For experimental reasons, some trees exhibit the part-of-speech designation 'b', equalling in most cases 'd' or 'c').
 
 ##  Papyri texts
-**What?** The texts will be offered to the Sematia project. 
+**What?** All papyri texts, which will be offered to the Sematia project, are annotated with Trismegistos-id's (both on the text level and on the word level).   
 
-**Who?** Most texts were annotated by Alek Keersmaekers. A number of texts were annotated by Louis Verreth (based on a first automated parsing by Alek Keersmaekers), and singular contributions were made by KU Leuven undergraduate students of Greek in the academic years 2017-2018 and 2018-2019, partly based on a first automated parsing by Alek Keersmaekers. In alphabetical order: . The entire annotation process is supervised by Alek Keersmaekers. More details can be found in the corresponding xml-file.
+**Who?** Alek Keersmaekers is the principle annotator of this corpus. A number of texts were annotated by Louis Verreth (based on a first automated parsing by Alek Keersmaekers). In addition, there are student contributions, partly based on a first automated parsing by Alek Keersmaekers, by Anna Bloemen; Mathieu Cuijpers; Niels De Ridder; Sanderijn Gijbels; Yoran Joosten; Yordi Lenaerts; Jonas Roose; Tibo Schuermans; Eva Uffing; Chiara Van der Hasselt; Lisa Vanhee; Jolien Volders; Anne-Sophie Vounckx (KU Leuven undergraduate students of Greek in the academic years 2017-2018 and 2018-2019). The entire annotation process is supervised by Alek Keersmaekers. More details can be found in the corresponding xml-file.
 
-**How much?** First release: ca. 7K tokens.
+**How much?** Currently ca. 12K tokens.
 
 **First release?** 2018
 
-**Updates?**  The annotations of the students of 2018-2019 will added in the course of January 2019. 
+**Updates?**  February 2019: addition of student annotations. 
 
 ## The Pedalion example sentences
 
@@ -22,7 +22,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **First release?** 2018
 
-**Updates?** February 2019: addition of student annotations; correction of previous data| Still to be done: The metadata of the sentences will  be enhanced.
+**Updates?** February 2019: addition of student annotations; correction of previous data | Still to be done: The metadata of the sentences will  be enhanced.
 
 ## Lucian, *Prometheus*
 
