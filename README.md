@@ -123,4 +123,6 @@ For our experiments with automated analysis, we thankfully rely on the high numb
 * The Sematia Project: https://github.com/ezhenrik/sematia
 
 Our treebank data was created and edited through the help of the Arethusa application (https://github.com/alpheios-project/arethusa) as provided by the Perseids Project at Tufts University (https://perseids.org). Arethusa has received support from the Andrew W. Mellon Foundation, the Institute of Museum and Library Services, Tufts University, and the Humboldt Chair of Digital Humanities at Leipzig. Arethusa is now being jointly maintained by the Perseids Project at Tufts University and The Alpheios Project, Ltd.
+
+Since January 2019, this work is also partly funded through an FWO research grant (Research Foundation Flanders).
  
