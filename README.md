@@ -96,7 +96,9 @@ The modifications are implemented in our own treebank search device, DendroSearc
 
 **Who?** Toon Van Hal and Alek Keersmaekers. 
 
-**How much?** The first version contains modifications of ca. 70K tokens.
+**How much?** The first version contained modifications of ca. 70K tokens. The second version contains modifications of ca. 110K tokens.
+
+**First release?** 2018
 
 ## Underway
 
