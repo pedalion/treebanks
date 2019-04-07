@@ -28,7 +28,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **What?** Parts of Genesis
 
-**Who?** Jonas Roose, based on a preparsed version by Alek Keersmaekers. Partially corrected by Toon Van Hal & Alek Keersmaekers. 
+**Who?** Jonas Roose, based on a preparsed version by Alek Keersmaekers. Partially corrected by Toon Van Hal & Alek Keersmaekers. We were happy to rely on the part-of-speech annotation by Kraft, R., ed. 1988. Morphologically Analyzed Septuagint (version 1.0). Computer-Assisted Tools for Septuagint Studies (CATSS), University of Pennsylvania. http://ccat.sas.upenn.edu/gopher/.
 
 **How much?** Currently ca. 14K tokens.
 
@@ -113,7 +113,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **How much?** ca. 1,5K tokens.
 
-**First release?** 2018
+**First release?** 2018, update in April 2019.
 
 ### (Pseudo-)Plato, *Cleitophon*
 
@@ -123,7 +123,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **How much?** ca. 1,8K tokens.
 
-**First release?** 2018
+**First release?** 2018, update in April 2019.
 
 
 ## Modifications in the Perseus Dependency Treebanks of Ancient Greek
@@ -134,7 +134,7 @@ The modifications are implemented in our own treebank search device, DendroSearc
 
 **Who?** Toon Van Hal and Alek Keersmaekers. 
 
-**How much?** The current release version contains modifications of ca. 110K tokens.
+**How much?** The current release version contains modifications of ca. 120K tokens.
 
 **First release?** 2018
 
@@ -147,9 +147,10 @@ The following texts are currently being annotated or corrected:
 * Hippocrates' Oath – annotated by Louis Verreth
 * Mimnermus: fragments – annotated by Wouter Mercelis
 * Theocritus: fragments
-* Aesopos: some fables – annotated by Colin Swaelens
+* Aesopos: some fables – annotated by Colin Swaelens & Eva Uffing
 * Batrachomyomachia – annotated by Colin Swaelens
 * Isocrates' letters (selection) – annotated by Toon Van Hal
+* Aristophanes' Thesmophoriazusae – annotated by Sanderijn Gijbels
 
 ## Credits
 
