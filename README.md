@@ -1,4 +1,4 @@
-# treebanks
+# Treebanks
 The following treebanks (all of which are bèta-versions) were developed by following the guidelines of the Perseus Dependency Treebanks. See also en.pedalion.org. (NB: For experimental reasons, some trees exhibit the part-of-speech designation 'b', equalling in most cases 'd' or 'c').
 
 ## Papyri texts
@@ -23,6 +23,19 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 **First release?** 2018
 
 **Updates?** February 2019: addition of student annotations; correction of previous data | Still to be done: The metadata of the sentences will  be enhanced.
+
+## The Septuagint
+
+**What?** Parts of Genesis
+
+**Who?** Jonas Roose, based on a preparsed version by Alek Keersmaekers. Partially corrected by Toon Van Hal & Alek Keersmaekers. 
+
+**How much?** Currently ca. 14K tokens.
+
+**First release?** 2019
+
+**Updates?** We will try to come up with a complete treebank of Genesis.
+
 
 ## Literary texts
 
@@ -128,21 +141,17 @@ The modifications are implemented in our own treebank search device, DendroSearc
 **Updates?** March 2019; April 2019.
 
 
-### Underway
+## Underway
 
 The following texts are currently being annotated or corrected:
 * Hippocrates' Oath – annotated by Louis Verreth
 * Mimnermus: fragments – annotated by Wouter Mercelis
+* Theocritus: fragments
 * Aesopos: some fables – annotated by Colin Swaelens
-* Parts of Genesis in the Septuagint translation – annotated by Jonas Roose
 * Batrachomyomachia – annotated by Colin Swaelens
 * Isocrates' letters (selection) – annotated by Toon Van Hal
-* Lucian, Lis vocalium – annotated by Sanderijn Gijbels
-* Lucian, Symposium – annotated by Yoran Joosten
 
-
-
-### Credits
+## Credits
 
 For our experiments with automated analysis, we thankfully rely on the high number of treebanks readily available
 * Perseus Treebanks: https://perseusdl.github.io/treebank_data/
@@ -155,10 +164,10 @@ Our treebank data was created and edited through the help of the Arethusa applic
 
 Since January 2019, this work is also partly funded through an FWO research grant (Research Foundation Flanders).
  
-### Copyright
+## Copyright
 
 We will assign a Creative-Commons licence to our treebanks, probably the following one: https://creativecommons.org/licenses/by-sa/4.0/. Please feel free to contact us for further questions.
 
-### Contact
+## Contact
 toon -dot- vanhal -emailsign- kuleuven.be; alek -dot- keersmaekers -emailsign- kuleuven.be 
   
