@@ -40,7 +40,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 ## Literary texts
 
 
-### Euripides, *Medea*
+### Euripides, *Medea* (complete)
 
 **What?**  
 
@@ -49,48 +49,6 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 **How much?** ca. 10K tokens.
 
 **First release?** 2019
-
-### Lucian, *Prometheus*
-
-**What?** Lucian, Prometheus on Caucasus, in: Lucian: Works with an English Translation by. A. M. Harmon. Cambridge, MA. Harvard University Press. London. William Heinemann Ltd. 1915. 2. Via: http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0062.tlg020.
-
-**Who?** Supervised by Toon Van Hal, with student contributions by De Schutter, A.; Knapen, C.; Weets, C.; Van Nunen, E.; De Smet, Isabeau; Van Bever, L.; Valadou, M.; De Backer, Olympe; Keupers, S.; Vangenechten, Thomas; Valgaeren, Thomas; Nelis, Tilke.
-
-**How much?** ca. 2,5K tokens.
-
-**First release?** 2018
-
-**Updates?** Updated file in April 2019, with corrections by Toon Van Hal and Alek Keersmaekers.
-
-### Lucian, *Lis vocalium*
-
-**What?**  
-
-**Who?** Annotated by Sanderijn Gijbels, corrected by Toon Van Hal. Based on a preparsed text by Alek Keersmaekers.
-
-**How much?** ca. 1300 tokens.
-
-**First release?** 2019
-
-### Lucian, *Symposion*
-
-**What?**  
-
-**Who?** Annotated by Yoran Joosten. Based on a preparsed text by Alek Keersmaekers. Partial corrections by Alek Keersmaekers and Toon Van Hal.
-
-**How much?** ca. 5,5K tokens.
-
-**First release?** 2019
-
-### (Pseudo-)Lucian, *The mule*
-
-**What?**  
-
-**Who?** Annotated by Alek Keersmaekers
-
-**How much?** ca. 11K tokens.
-
-**First release?** 2018
 
 ### Longus, *Daphnis and Chloe*, 1.1-1.6
 
@@ -105,7 +63,60 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 **Updates?** Will be expanded and corrected soon.
 
 
-### Lysias, *on the pension* (Or. 24)
+### Lucian, *Prometheus* (complete)
+
+**What?** Lucian, Prometheus on Caucasus, in: Lucian: Works with an English Translation by. A. M. Harmon. Cambridge, MA. Harvard University Press. London. William Heinemann Ltd. 1915. 2. Via: http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0062.tlg020.
+
+**Who?** Supervised by Toon Van Hal, with student contributions by De Schutter, A.; Knapen, C.; Weets, C.; Van Nunen, E.; De Smet, Isabeau; Van Bever, L.; Valadou, M.; De Backer, Olympe; Keupers, S.; Vangenechten, Thomas; Valgaeren, Thomas; Nelis, Tilke.
+
+**How much?** ca. 2,5K tokens.
+
+**First release?** 2018
+
+**Updates?** Updated file in April 2019, with corrections by Toon Van Hal and Alek Keersmaekers.
+
+### Lucian, *Lis vocalium* (complete)
+
+**What?**  
+
+**Who?** Annotated by Sanderijn Gijbels, corrected by Toon Van Hal. Based on a preparsed text by Alek Keersmaekers.
+
+**How much?** ca. 1300 tokens.
+
+**First release?** 2019
+
+### Lucian, *Symposion* (complete)
+
+**What?**  
+
+**Who?** Annotated by Yoran Joosten. Based on a preparsed text by Alek Keersmaekers. Partially corrected by Alek Keersmaekers and Toon Van Hal.
+
+**How much?** ca. 5,5K tokens.
+
+**First release?** 2019
+
+### Lucian, *Philopseudes* 33-36
+
+**What?** 
+
+**Who?** Annotated by Yoran Joosten. Based on a preparsed text by Alek Keersmaekers.
+
+**How much?** ca. 640 tokens.
+
+**First release?** 2019
+
+### (Pseudo-)Lucian, *The mule* (complete)
+
+**What?**  
+
+**Who?** Annotated by Alek Keersmaekers
+
+**How much?** ca. 11K tokens.
+
+**First release?** 2018
+
+
+### Lysias, *on the pension* (Or. 24) (complete)
 
 **What?** Lysias (Or. 24) with an English translation by W.R.M. Lamb, M.A. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1930.
 
@@ -115,7 +126,30 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **First release?** 2018, update in April 2019.
 
-### (Pseudo-)Plato, *Cleitophon*
+### Menander, *Dyskolos* (complete)
+
+**What?**  
+
+**Who?** Annotated by Yoran Joosten. Based on a preparsed text by Alek Keersmaekers. Partially corrected by Alek Keersmaekers & Toon Van Hal
+
+**How much?** ca. 8K tokens.
+
+**First release?** 2019.
+
+**Updates?** Will be expanded and corrected soon.
+
+
+### Paeanius, *Brevarium*, 1-70 
+
+**What?**  
+
+**Who?** Annotated by Yoran Joosten. Based on a preparsed text by Alek Keersmaekers.
+
+**How much?** ca. 650 tokens.
+
+**First release?** 2019.
+
+### (Pseudo-)Plato, *Cleitophon* (complete)
 
 **What?** Plato. Platonis Opera, ed. John Burnet. Oxford University Press. 1903. 
 
