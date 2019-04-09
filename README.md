@@ -139,7 +139,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 **Updates?** Will be expanded and corrected soon.
 
 
-### Paeanius, *Brevarium*, 1-70 
+### Paeanius, *Brevarium*, 1-9
 
 **What?**  
 
@@ -162,7 +162,7 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 ## Modifications in the Perseus Dependency Treebanks of Ancient Greek
 
-**What?** This database-generated list contains a number of  the existing Ancient Greek Dependency Treebanks. We are currently conducting experiments with automated parsing of Greek, and we are therefore attempting to homogenize the training corpus. The modifications included are of a manifold nature. The number of what we believe are clear mistakes is just a minor -- although not unsubstantial -- part of the file: most suggestions are made for purposes of homogenization. Later versions of this file will likely qualify the nature of each modification made. As this is work in progress, it is safe to say that this file might also contain a number of improvements for the worse. 
+**What?** This database-generated list contains a number of modifications in the existing Ancient Greek Dependency Treebanks. We are currently conducting experiments with automated parsing of Greek, and we are therefore attempting to homogenize the training corpus. The modifications included are of a manifold nature. The number of what we believe are clear mistakes is just a minor -- although not unsubstantial -- part of the file: most suggestions are made for purposes of homogenization. Later versions of this file will likely qualify the nature of each modification made. As this is work in progress, it is safe to say that this file might also contain a number of improvements for the worse. 
 
 The modifications are implemented in our own treebank search device, DendroSearch.
 
