@@ -39,6 +39,16 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 ## Literary texts
 
+### Aristophanes, *Thesmopheriazusae* (complete)
+
+**What?**  
+
+**Who?** Annotated by Sanderijn Gijbels. Based on a preparsed text by Alek Keersmaekers. Partially corrected by Toon Van Hal.
+
+**How much?** ca. 9K tokens.
+
+**First release?** 2019
+
 
 ### Euripides, *Medea* (complete)
 
@@ -49,6 +59,16 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 **How much?** ca. 10K tokens.
 
 **First release?** 2019
+
+### Pseudo-Homer, *Batrachomyomachia*
+
+**What?**  
+
+**Who?** Annotated by Colin Swaelens. Based on a preparsed text by Alek Keersmaekers.
+
+**How much?** ca. 2,2K tokens.
+
+**First release?** 2019.
 
 ### Longus, *Daphnis and Chloe*, 1.1-1.6
 
@@ -115,6 +135,10 @@ The following treebanks (all of which are bèta-versions) were developed by foll
 
 **First release?** 2018
 
+### Lyric poetry
+**What?** Theocritus, Mimnermus, Semonides
+**How much?** ca. 1,5K Tokens
+**Who?** Annotated by Louis Verreth and Wouter Mercelis, on the basis of an automatically parsed version by Alek Keersmaekers, and partially corrected by Toon Van Hal 
 
 ### Lysias, *on the pension* (Or. 24) (complete)
 
@@ -179,12 +203,8 @@ The modifications are implemented in our own treebank search device, DendroSearc
 
 The following texts are currently being annotated or corrected:
 * Hippocrates' Oath – annotated by Louis Verreth
-* Mimnermus: fragments – annotated by Wouter Mercelis
-* Theocritus: fragments
 * Aesopos: some fables – annotated by Colin Swaelens & Eva Uffing
-* Batrachomyomachia – annotated by Colin Swaelens
 * Isocrates' letters (selection) – annotated by Toon Van Hal
-* Aristophanes' Thesmophoriazusae – annotated by Sanderijn Gijbels
 
 ## Credits
 
