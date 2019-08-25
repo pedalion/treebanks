@@ -1,7 +1,7 @@
 # Pedalion Treebanks
 We moved our treebanks to https://github.com/perseids-publications/pedalion-trees/! 
 
-See also <en.pedalion.org/treebanks>.
+See also http://en.pedalion.org/treebanks for more background.
 
 You can find here the modifications in the Perseus Dependency Treebanks of Ancient Greek. 
 
